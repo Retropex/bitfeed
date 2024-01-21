@@ -32,9 +32,9 @@ export default {
   noBlockFeed: false,
   // Minimum delay in ms before newly recieved transactions enter the visualization
   txDelay: 3000,
-  donationsEnabled: true,
+  donationsEnabled: false,
   // Enables the message bar
-  messagesEnabled: true,
+  messagesEnabled: false,
   // Delay in ms between message bar rotations
   alertDuration: 20000,
 }
